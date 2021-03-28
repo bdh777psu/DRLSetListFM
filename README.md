@@ -1,6 +1,6 @@
 # DRLSetListFM
 
-[![CI Status](https://img.shields.io/travis/Diogo Lessa/DRLSetListFM.svg?style=flat)](https://travis-ci.org/Diogo Lessa/DRLSetListFM)
+[![CI Status](https://img.shields.io/travis/bdh777psu/DRLSetListFM.svg?style=flat)](https://travis-ci.org/bdh777psu/DRLSetListFM)
 [![Version](https://img.shields.io/cocoapods/v/DRLSetListFM.svg?style=flat)](https://cocoapods.org/pods/DRLSetListFM)
 [![License](https://img.shields.io/cocoapods/l/DRLSetListFM.svg?style=flat)](https://cocoapods.org/pods/DRLSetListFM)
 [![Platform](https://img.shields.io/cocoapods/p/DRLSetListFM.svg?style=flat)](https://cocoapods.org/pods/DRLSetListFM)
