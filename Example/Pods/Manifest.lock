@@ -1,0 +1,16 @@
+PODS:
+  - DRLSetListFM (0.1.0)
+
+DEPENDENCIES:
+  - DRLSetListFM (from `../`)
+
+EXTERNAL SOURCES:
+  DRLSetListFM:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DRLSetListFM: 650e98be6ed4bbc1dac45703022cc77685a703be
+
+PODFILE CHECKSUM: d952b782dc2eb42ccebdbbd735f52bcebe11cf03
+
+COCOAPODS: 1.10.1

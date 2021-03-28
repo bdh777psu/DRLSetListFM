@@ -1,0 +1,6 @@
+framework module DRLSetListFM {
+  umbrella header "DRLSetListFM-umbrella.h"
+
+  export *
+  module * { export * }
+}

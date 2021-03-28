@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DRLSetListFM_Tests' do
+  pod 'DRLSetListFM', :path => '../'
+  
+  
+end

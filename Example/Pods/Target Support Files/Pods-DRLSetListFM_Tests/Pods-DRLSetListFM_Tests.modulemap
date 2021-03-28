@@ -1,0 +1,6 @@
+framework module Pods_DRLSetListFM_Tests {
+  umbrella header "Pods-DRLSetListFM_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

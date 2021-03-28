@@ -1,0 +1,22 @@
+{
+  "name": "DRLSetListFM",
+  "version": "0.1.0",
+  "summary": "A short description of DRLSetListFM.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Diogo Lessa/DRLSetListFM",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Diogo Lessa": "diogo.r.lessa@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Diogo Lessa/DRLSetListFM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DRLSetListFM/Classes/**/*"
+}
