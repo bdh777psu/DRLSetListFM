@@ -10,4 +10,4 @@ language: swift
 # - gem install cocoapods # Since Travis is not always on latest version
 # - pod install --project-directory=Example
 script:
-- set -o pipefail && xcodebuild -workspace Example/DRLSetListFM.xcworkspace -scheme DRLSetListFM-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO -destination platform=iOS build | xcpretty -c --color
+- set -o pipefail && xcodebuild -workspace Example/DRLSetListFM.xcworkspace -scheme DRLSetListFM-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO build | xcpretty -c --color
