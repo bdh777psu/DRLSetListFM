@@ -6,8 +6,8 @@ osx_image: xcode12.3
 language: swift
 # cache: cocoapods
 # podfile: Example/Podfile
-# before_install:
+before_install:
 - gem install cocoapods # Since Travis is not always on latest version
-- pod install
+- pod install --verbose
 script:
 - set -o pipefail && xcodebuild -workspace Example/DRLSetListFM.xcworkspace -scheme DRLSetListFM-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO build | xcpretty -c --color
